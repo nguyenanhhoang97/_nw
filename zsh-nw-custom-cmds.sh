@@ -18,7 +18,7 @@ function _nww() {
 function _nw-help() {
   echo '_nw by nguyenanhhoang97\n
   1. _nwl: change to use LAN\n
-  2. _nwl: change to use WIFI\n
+  2. _nww: change to use WIFI\n
   3. _nw-help: help\n
   '
 }
